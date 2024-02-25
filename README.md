@@ -28,9 +28,3 @@ O desenvolvimento do projeto seguiu uma abordagem iterativa, com a criação de 
 - `Home-navbar-footer`: Contém os componentes de interface inicial.
 - `CRUD-categoria`: Inclui a implementação das funcionalidades de CRUD para a entidade Categoria.
 - `rotas-conclusao-do-projeto`: Finaliza o projeto com a validação das rotas e ajustes finais.
-
-## Conclusão
-
-Este projeto foi desenvolvido como uma avaliação prática, focando em demonstrar habilidades em React, gestão de estados com hooks, estilização com TailwindCSS, consumo de APIs com Axios e navegação com React Router. A implementação seguiu rigorosamente os requisitos propostos, visando criar uma aplicação funcional e bem estruturada para a gestão de uma farmácia.
-
-Caso haja dúvidas ou necessidade de suporte adicional, os instrutores da turma estão disponíveis para contato via Discord.
